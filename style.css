@@ -95,7 +95,7 @@
 
   /* ------------------------------------------------------------------------ */
   
-  .who {
+  .text {
     font-family: 'Nunito Sans';
     margin-top: 250px;
     position: absolute;
@@ -107,6 +107,27 @@
     border-radius: 20px;
     filter: drop-shadow(4px 4px 12px #b7b9bb);
     display: block;
+    left: 0px;
+    right: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  .nation {
+    font-family: 'Nunito Sans';
+    margin-top: 250px;
+    position: absolute;
+    bottom: -650px;
+    width: 75%;
+    background-color: #ffffff;
+    width: 60%;
+    padding: 30px;
+    border-radius: 20px;
+    filter: drop-shadow(4px 4px 12px #b7b9bb);
+    display: block;
+    left: 0px;
+    right: 0px;
     margin-left: auto;
     margin-right: auto;
   }
